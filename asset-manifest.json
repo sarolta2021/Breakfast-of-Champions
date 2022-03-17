@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Breakfast-of-Champions/static/css/main.2c43971a.css",
+    "main.js": "/Breakfast-of-Champions/static/js/main.daccc577.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Breakfast-of-Champions/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Breakfast-of-Champions/index.html",
+    "main.2c43971a.css.map": "/Breakfast-of-Champions/static/css/main.2c43971a.css.map",
+    "main.daccc577.js.map": "/Breakfast-of-Champions/static/js/main.daccc577.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Breakfast-of-Champions/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c43971a.css",
+    "static/js/main.daccc577.js"
+  ]
+}
